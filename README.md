@@ -5,8 +5,9 @@
 		go (>=1.20)
 
 
-### Steps to start the project:
-        go install github.com/Aritra640/GithubActivityTracker
+### Steps to setup the project:
+        git clone https://github.com/Aritra640/GithubActivityTracker
+        go build -o github-activity .
 
 
 ####  project requirements:  https://roadmap.sh/projects/github-user-activity
