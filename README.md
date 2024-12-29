@@ -1,11 +1,12 @@
-#GitHub Activity Tracker (Go)
+# Github Activity Tracker (go)
+### a GitHub activity tracker written in go 
 
-A github activity tracker written in go with bubble tea framework 
-
-##Requirements 
-
-go(1.20 or higher)
+### Requirements :
+		go (>=1.20)
 
 
+### Steps to start the project:
+        go install github.com/Aritra640/GithubActivityTracker
 
-##project requirements : https://roadmap.sh/projects/github-user-activity
+
+####  project requirements:  https://roadmap.sh/projects/github-user-activity
